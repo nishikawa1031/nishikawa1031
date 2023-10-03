@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikawa1031&label=Profile%20views&color=0e75b6&style=flat" alt="nishikawa1031" /> </p>
 
+- 🔭 I’m currently working on **freelance**
+
 - 👯 I’m looking to collaborate on [gem](https://rubygems.org/profiles/nishikawa1031)
 
-- 💬 Ask me about **rails**
+- 💬 Ask me about **rails react**
+
+- 📄 Know about my experiences [https://www.resume.id/nishikawa1031](https://www.resume.id/nishikawa1031)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
