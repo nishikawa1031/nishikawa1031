@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working as a freelance engineer
 
-- 👯 I’m looking to collaborate on [gem](https://rubygems.org/profiles/nishikawa1031)
+- 👯 I’m looking to collaborate on the development of a Rails application
+- [gem](https://rubygems.org/profiles/nishikawa1031)
 
 - 💬 Ask me about **rails react**
 
