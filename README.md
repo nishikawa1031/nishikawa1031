@@ -5,12 +5,11 @@
 
 - 👯 I’m looking to collaborate on [gem](https://rubygems.org/profiles/nishikawa1031)
 
-- 📝 I regularly write articles on [https://dev.to/nishikawa1031/a-new-gem-that-eliminates-the-hassle-of-launching-the-rails-app-every-time-just-to-check-the-logs-1pp8](https://dev.to/nishikawa1031/a-new-gem-that-eliminates-the-hassle-of-launching-the-rails-app-every-time-just-to-check-the-logs-1pp8)
-
 - 💬 Ask me about **rails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/nishikawa1031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nishikawa1031" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
