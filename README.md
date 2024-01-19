@@ -11,6 +11,10 @@
 
 - 📄 Know about my experiences [https://www.resume.id/nishikawa1031](https://www.resume.id/nishikawa1031)
 
+- certification
+  - AWS Certified Developer - Associate
+  - Ruby Association Certified Ruby Programmer Silver version 2:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nishikawa1031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nishikawa1031" height="30" width="40" /></a>
