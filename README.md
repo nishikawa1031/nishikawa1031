@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm nishikawa1031</h1>
-<h3 align="center">A passionate backend developer from Japan</h3>
+<h3 align="center"Thank you to the Fukuoka members of MF.Both mother and child are healthy and the child was born in 5/16, weighing 2900 kg.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikawa1031&label=Profile%20views&color=0e75b6&style=flat" alt="nishikawa1031" /> </p>
-
-**Thank you to the Fukuoka members of MF.**
-**Both mother and child are healthy and the child was born in 5/16, weighing 2900 kg.**
 
 - 🔭 I’m currently working as a freelance engineer
 
