@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikawa1031&label=Profile%20views&color=0e75b6&style=flat" alt="nishikawa1031" /> </p>
 
+Thank you to the Fukuoka members of MF. 
+Both mother and child are healthy and the child was born safely, weighing 2900 kg.
+
 - 🔭 I’m currently working as a freelance engineer
 
 - 👯 I’m looking to collaborate on the development of a Rails application
