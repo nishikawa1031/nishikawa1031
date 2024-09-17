@@ -13,6 +13,7 @@
 - certification
   - AWS Certified Developer - Associate
   - Ruby Association Certified Ruby Programmer Silver version 2:
+  - Azure Fundamentals AZ-900, AI-900
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
