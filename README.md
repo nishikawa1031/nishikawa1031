@@ -8,6 +8,8 @@
 
 - 💬 Ask me about **rails react**
 
+- product https://job-in-japan.com/
+
 - 📄 Know about my experiences [https://www.resume.id/nishikawa1031](https://www.resume.id/nishikawa1031)
 
 - certification
